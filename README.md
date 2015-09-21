@@ -2,5 +2,6 @@
 ### Lehrveranstaltung: PR1
 ### Name: Gerwin Passer
 
-Das ist ein Repository, um das erfolgreiche Setup von github.com und der lokalen Git Installation zu
-testen....
+Das ist ein Repository, um das erfolgreiche Setup von 
+github.com und der lokalen Git Installation zu testen....
+
